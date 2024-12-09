@@ -7,7 +7,7 @@ Spam emails are unsolicited messages that clutter inboxes and may pose security 
 - Trains a Multinomial Naive Bayes classifier for spam detection.
 - Evaluates model performance using various metrics.
 - Provides a user-friendly interface for classifying new emails.
-  #Dataset
+  # Dataset
      The model is trained and evaluated on the SpamAssassin Public Corpus, which contains a collection of labeled spam and ham emails.
 
 # Model Training
