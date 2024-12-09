@@ -29,4 +29,13 @@ The model is trained using the following steps:
 
      -Split the dataset into training and testing sets.
     
-   -Train the model on the training data.
+    -Train the model on the training data.
+
+# Evaluation
+The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. A confusion matrix is also generated to visualize the classification results.
+
+# Results
+The trained model achieves an accuracy of approximately 98% on the test dataset, indicating high effectiveness in distinguishing between spam and ham emails.
+
+# Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
