@@ -12,18 +12,18 @@ The model is trained using the following steps:
 
 1) Data Preprocessing:
 
--Remove duplicates and handle missing values.
+  -Remove duplicates and handle missing values.
 
--Clean and tokenize text data.
+  -Clean and tokenize text data.
 
--Convert text to numerical features using techniques like TF-IDF.
+  -Convert text to numerical features using techniques like TF-IDF.
 
 2) Model Selection:
 
--Utilize algorithms such as Multinomial Naive Bayes for classification.
+  -Utilize algorithms such as Multinomial Naive Bayes for classification.
 
 3) Training:
 
--Split the dataset into training and testing sets.
-
--Train the model on the training data.
+  -Split the dataset into training and testing sets.
+    
+  -Train the model on the training data.
