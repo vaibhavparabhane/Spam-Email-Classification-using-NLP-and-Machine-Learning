@@ -7,3 +7,20 @@ Spam emails are unsolicited messages that clutter inboxes and may pose security 
 - Trains a Multinomial Naive Bayes classifier for spam detection.
 - Evaluates model performance using various metrics.
 - Provides a user-friendly interface for classifying new emails.
+# Model Training
+The model is trained using the following steps:
+
+1) Data Preprocessing:
+
+-Remove duplicates and handle missing values.
+-Clean and tokenize text data.
+-Convert text to numerical features using techniques like TF-IDF.
+
+2)Model Selection:
+
+-Utilize algorithms such as Multinomial Naive Bayes for classification.
+
+3) Training:
+
+-Split the dataset into training and testing sets.
+-Train the model on the training data.
