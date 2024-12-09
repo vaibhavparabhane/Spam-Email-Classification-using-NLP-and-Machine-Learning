@@ -18,11 +18,11 @@ The model is trained using the following steps:
 
 -Convert text to numerical features using techniques like TF-IDF.
 
-2)Model Selection:
+2) Model Selection:
 
 -Utilize algorithms such as Multinomial Naive Bayes for classification.
 
-3)Training:
+3 )Training:
 
 -Split the dataset into training and testing sets.
 
