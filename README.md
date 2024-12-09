@@ -12,9 +12,9 @@ The model is trained using the following steps:
 
 1) Data Preprocessing:
 
-  -Remove duplicates and handle missing values.
+    -Remove duplicates and handle missing values.
 
-  -Clean and tokenize text data.
+      -Clean and tokenize text data.
 
   -Convert text to numerical features using techniques like TF-IDF.
 
