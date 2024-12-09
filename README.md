@@ -10,7 +10,7 @@ Spam emails are unsolicited messages that clutter inboxes and may pose security 
 # Model Training
 The model is trained using the following steps:
 
-1 )Data Preprocessing:
+1) Data Preprocessing:
 
 -Remove duplicates and handle missing values.
 
@@ -18,11 +18,11 @@ The model is trained using the following steps:
 
 -Convert text to numerical features using techniques like TF-IDF.
 
-2 )Model Selection:
+2) Model Selection:
 
 -Utilize algorithms such as Multinomial Naive Bayes for classification.
 
-3 )Training:
+3) Training:
 
 -Split the dataset into training and testing sets.
 
